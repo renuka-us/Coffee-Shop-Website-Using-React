@@ -206,8 +206,8 @@ const Footer = () => {
         </p>
         <p className="m-0 text-white">
           Designed by{" "}
-          <a className="font-weight-bold" href="https://htmlcodex.com">
-            HTML Codex
+          <a className="font-weight-bold" href="#">
+            Renuka with ❤
           </a>
         </p>
       </div>
